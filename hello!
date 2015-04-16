@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IM A BUNCH OF ANGRY WORDS</title>
+</head>
+<body>
+<h1>Welcome Travellers!</h1>
+<h2>This is a SubHeading</h2>
+<h3>This is a Regular Heading</h3>
+<h4>Article Subheadings can be found neer the river</h4>
+<img src="https://www.petfinder.com/wp-content/uploads/2012/11/99059361-choose-cat-litter-632x475.jpg"><br>
+<a href="third.html"><button><Go to third page</button></a>
+</body>
+</html>
